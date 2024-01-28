@@ -7,7 +7,7 @@
 [Mi Repositorio de prueba](https://github.com/Jhannoxx/PrimerRepositorio.git) Este es mi primer repositorio.
 
 # Mis estadísticas en Github
-[![Hua's github stats](https://github-readme.stats.vercel.app/api?username=Jhannoxx&show_icons=true&theme=dark)](https://github.com/Jhannoxx/github-readme-stats)
+[![Jhannoxx's github stats](https://github-readme.stats.vercel.app/api?username=Jhannoxx&show_icons=true&theme=dark)](https://github.com/Jhannoxx/github-readme-stats)
 
 
 <!--
